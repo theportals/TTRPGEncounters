@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016093101816",
+    "project_id": "ttrpgencounters",
+    "storage_bucket": "ttrpgencounters.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016093101816:android:eb3a8bcc0d44f48039750d",
+        "android_client_info": {
+          "package_name": "me.toml.ttrpgencounters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016093101816-01tt0cgmos49o5h8fmsl5420kgaffkd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYriVRfU2pMoU8xH1AhRNEDc1lTtgNgaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016093101816-01tt0cgmos49o5h8fmsl5420kgaffkd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
